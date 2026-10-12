@@ -1,5 +1,10 @@
 # Juan Raphael Dilag (Apa)
 
+![Open to remote work](https://img.shields.io/badge/Open%20to-remote%20work-2ea44f?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-raphaeldilag.xyz-1f6feb?style=for-the-badge)](https://raphaeldilag.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raphaeldilag-0a66c2?style=for-the-badge)](https://www.linkedin.com/in/raphaeldilag)
+[![Email](https://img.shields.io/badge/Email-juanraphaeldilag%40gmail.com-555555?style=for-the-badge)](mailto:juanraphaeldilag@gmail.com)
+
 Business analyst and full-stack developer based in Calamba City, Laguna, Philippines.
 
 Most of my work starts on the analysis side. I gather requirements, map how a process runs now and how it should run, write the functional spec, and plan the tests. Then I build the tool myself, usually with TypeScript, React, Python, and Supabase.
@@ -21,7 +26,7 @@ Campus map for new students at Mapúa MCL. Search by building, office, or room c
 React, TypeScript, MapLibre GL, Zod, Vitest
 
 **[portfolio-website](https://github.com/apajuan/portfolio-website)**
-My portfolio at [raphaeldilag.xyz](https://raphaeldilag.xyz). Plain HTML, CSS, and JavaScript with no build step.
+My portfolio at [raphaeldilag.xyz](https://raphaeldilag.xyz). Plain HTML, CSS, and JavaScript with no build step to keep things simple.
 
 **[portfolio-website-fun](https://github.com/apajuan/portfolio-website-fun)**
 Small side projects, including cadence, a typing speed test that tracks WPM, accuracy, and personal bests.
@@ -34,8 +39,4 @@ Analysis: requirements gathering, process mapping, functional specs, use cases, 
 
 Development: TypeScript, React, Next.js, React Native, Python, Supabase, PostgreSQL, Cloudflare, Git, Linux
 
-## Contact
-
-- Website: [raphaeldilag.xyz](https://raphaeldilag.xyz)
-- Email: juanraphaeldilag@gmail.com
-- LinkedIn: [in/raphaeldilag](https://www.linkedin.com/in/raphaeldilag)
+![Skills](https://skillicons.dev/icons?i=ts,react,nextjs,py,supabase,postgres,tailwind,cloudflare,vercel,git,linux)
